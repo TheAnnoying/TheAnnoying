@@ -5,6 +5,6 @@ Hello, I'm TheAnnoying! I love playing Minecraft and making things such as serve
 <div align="center">
   
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,ps,tailwind,vscode "My Skills")](https://theannoying.github.io)
-  
+  [![Banner](https://theannoying.github.io/assets/cutbanner.png "Banner")]
+
 </div>
-![Banner](https://theannoying.github.io/assets/cutbanner.png)
