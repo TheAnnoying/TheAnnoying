@@ -1,5 +1,6 @@
 <div align="center">
   
+  ![ImTheAnnoying](https://theannoying.github.io/assets/imtheannoying.png "ImTheAnnoying")
   
   Hello, I'm TheAnnoying! I love playing Minecraft and making things such as servers, plugins and resource packs. I worked on a few Discord bots, and make websites.
   
